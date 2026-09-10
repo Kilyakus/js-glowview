@@ -1,0 +1,29 @@
+{
+	"name": "@kilyakus/js-glowview",
+	"productName": "GlowView",
+	"version": "1.2609.00110",
+	"description": "GlowView is a pure JS border glow library — a port of the BorderGlow component from reactbits.dev.",
+	"main": "js/glowview.min.js",
+	"style": "css/glowview.min.css",
+	"author": "Aleksandr Kilyakov",
+	"authorUsername": "Kilyakus",
+	"contributors": [
+		{
+			"name": "reactbits.dev",
+			"url": "https://reactbits.dev",
+			"info": "BorderGlow component (original React source)",
+			"originalLicense": "Apache License 2.0",
+			"originalLicenseUrl": "https://github.com/nextapps-de/winbox/blob/master/LICENSE"
+		}
+	],
+	"license": "CC-BY-NC-4.0",
+	"licenseLegal": "Attribution-NonCommercial 4.0 International",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kilyakus/@kilyakus/js-glowview.git"
+	},
+	"build": {},
+	"publishConfig": {
+		"access": "public"
+	}
+}
